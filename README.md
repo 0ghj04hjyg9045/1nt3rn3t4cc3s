@@ -8,7 +8,7 @@ We chose [NextDNS](https://nextdns.io/privacy) to be our handler for DNS traffic
 
 ## What we save and see.
 1. Usage Data: We locally store all usage data such as traffic and connection logs. Whenever you connect to our network, your device will receive their own "device fingerprint".
-2. Deep Packet Inspection: All of your internet traffic is being stored locally to provide more information in usage. This does NOT mean that we are able to see every single thing you do online. We might be able to see what kind of apps and services you use, such as Netflix and YouTube, most traffic is encrypted and will be shown as "Unknown / Other".
+2. Deep Packet Inspection: All of your internet traffic is being stored locally to provide more information in usage. This does NOT mean that we are able to see every single thing you do online. We might be able to see what kind of apps and services you use, such as Netflix and YouTube, but most traffic is encrypted with HTTPS/SSL and will be shown as "Unknown / Other".
 
 
 ## Terms and Conditions
