@@ -4,11 +4,11 @@
 ## Privacy policy.
  
 ### DNS Traffic
-We chose NextDNS to be our handler for DNS traffic. 
+We chose [NextDNS](https://nextdns.io/privacy) to be our handler for DNS traffic. [NextDNS](https://nextdns.io/privacy) does not sell or share any of the data submitted by their users with any person or entity. When the service comes into contact with user data that shall not be logged, it is discarded as quickly as possible. Some data is logged by us to identify privacy-intrusive behaviour.
 
-### 1
-**Create an environment where people aren’t afraid to speak and ask questions.** This means: No flaming, personal bashing, excessive trolling, out of control arguments, and similar behavior. If something gets out of hand, ping the mods and let them handle it. Don’t take moderation into your own hands.
- 
+## What we save and see.
+1. Usage Data: We locally store all usage data such as traffic and connection logs. Whenever you connect to our network, your device will receive their own "device fingerprint".
+2. Deep Packet Inspection: All of your internet traffic is being stored locally to provide more information in usage. This does NOT mean that we are able to see every single thing you do online. We might be able to see what kind of apps and services you use, such as Netflix and YouTube, most traffic is encrypted and will be shown as "Unknown / Other".
 
 
 ## Terms and Conditions
